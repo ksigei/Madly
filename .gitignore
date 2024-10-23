@@ -1,0 +1,14 @@
+# venv
+./venv
+venv/*
+venv/
+venv
+# pycache
+__pycache__
+# IDE
+.idea
+.vscode
+# Logs
+*.log
+# Compiled files
+*.pyc
